@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 💻 Practicing **React**, building reusable components & learning APIs
 - 📫 Reach me at: linkedin.com/in/aanchalmanocha
 
----
 
 ### 🛠️ My Tech Stack
 
@@ -36,7 +35,6 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
@@ -46,6 +44,5 @@ Here are some ideas to get you started:
 <a href="mailto:aanchalmanocha052@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aanchalmanocha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/aanchalm691"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-
 
 Consistency always wins. 🌱
